@@ -1,6 +1,6 @@
 <h2>:pencil: Sobre mi:</h2>
 <p>Nombre real: Marcos Ezequiel Correia.</p>
-<p>Edad: 18 Años.</p>
+<p>Edad: 21 Años.</p>
 <h2>:briefcase: Titulos adquiridos</h2>
 <ul>
   <li>Técnico en Programación</li>
